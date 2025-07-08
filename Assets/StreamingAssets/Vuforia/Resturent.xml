@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="momo" size="0.050000 0.050000" />
+    <ImageTarget name="pizza" size="0.050000 0.050000" />
+    <ImageTarget name="burger" size="0.050000 0.050000" />
+    <ImageTarget name="cola_fry" size="0.050000 0.050000" />
+    <ImageTarget name="steak" size="0.050000 0.050000" />
+  </Tracking>
+</QCARConfig>
